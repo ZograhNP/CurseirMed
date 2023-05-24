@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.294,=C:\Users\Zograh\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.446,C:\Users\Zograh\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Zograh\Documents\Embarcadero\Studio\Projects\ProjectDBICKursPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.576,=C:\Users\Zograh\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.334,=C:\Users\Zograh\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.601,C:\Users\Zograh\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Zograh\Documents\Embarcadero\Studio\Projects\ProjectDBICKurs.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.087,C:\Users\Zograh\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Zograh\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.944,=C:\Users\Zograh\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023.05.22 17:38:43.079,C:\Users\Zograh\Desktop\Нова папка\Curseir Work\Project1PCH1.h=C:\Users\Zograh\Desktop\Нова папка\Curseir Work\ProjectDBICKursPCH1.h</Transaction>
+    <Transaction>2023.05.22 17:38:43.159,C:\Users\Zograh\Desktop\Нова папка\Curseir Work\Project1.cbproj=C:\Users\Zograh\Desktop\Нова папка\Curseir Work\ProjectDBICKurs.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
